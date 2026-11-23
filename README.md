@@ -1,5 +1,7 @@
 # Audi R8 Spyder Rim | 3D Modelling Project
 
+![Isometric View](Audi%20R8%20Spyder%20Rim%20-%20Isometric%20View%20.jpg)
+
 A 3D modelling project inspired by the Audi R8 Spyder wheel design, developed using Blender.
 
 The project demonstrates 3D modelling, geometric detailing and digital product visualisation, with consideration for manufacturable geometry.
