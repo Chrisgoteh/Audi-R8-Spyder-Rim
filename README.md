@@ -19,8 +19,6 @@ The project demonstrates 3D modelling, geometric detailing and digital product v
 ![Front View](Audi%20R8%20Spyder%20Rim%20-%20Front%20View.jpg)
 ![Side View](Audi%20R8%20Spyder%20Rim%20-%20Side%20View%20.jpg)
 ![Isometric View](Audi%20R8%20Spyder%20Rim%20-%20Isometric%20View.jpg)
-
-
 ## Downloadable Files
 
 The project includes the following 3D model formats:
