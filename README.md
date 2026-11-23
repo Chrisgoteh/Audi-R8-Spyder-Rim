@@ -4,13 +4,13 @@
 
 A 3D model of an Audi R8 Spyder alloy wheel, modelled in Blender 5.0.
 
-## Renders
+# Renders
 
 | Front | Side |
 |---|---|
 | ![Front view](Audi%20R8%20Spyder%20Rim%20-%20Front%20View.jpg) | ![Side view](Audi%20R8%20Spyder%20Rim%20-%20Side%20View.jpg) |
 
-## Files
+# Files
 
 | Format | Use |
 |---|---|
@@ -20,6 +20,6 @@ A 3D model of an Audi R8 Spyder alloy wheel, modelled in Blender 5.0.
 | `.obj` + `.mtl` | Universal mesh format with materials |
 | `.stl` | 3D printing |
 
-## Notes
+# Notes
 - Modelled and rendered by Christopher (Chrisgoteh).
 - Audi is a trademark of its owner. This is an independent fan model and is not affiliated with or endorsed by Audi.
