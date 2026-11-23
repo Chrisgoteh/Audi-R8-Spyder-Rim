@@ -17,7 +17,7 @@ The project demonstrates 3D modelling, geometric detailing and digital product v
 ## Project Renders
 
 ### Front View
-![Front View](front.jpg)
+![Front View](images/front-view.jpg)
 
 ### Side View
 ![Side View](side.jpg)
