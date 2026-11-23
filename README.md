@@ -1,6 +1,6 @@
 # Audi R8 Spyder Rim
 
-![Isometric view](Audi%20R8%20Spyder%20Rim%20-%20Isometric%20View.jpg)
+![Isometric view]
 
 A 3D model of an Audi R8 Spyder alloy wheel, modelled in Blender 5.0.
 
