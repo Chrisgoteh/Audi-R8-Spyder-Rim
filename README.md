@@ -21,17 +21,16 @@ The project demonstrates 3D modelling, geometric detailing and digital product v
 ![Isometric View](Audi%20R8%20Spyder%20Rim%20-%20Isometric%20View.jpg)
 
 
-#Downloadable Files
+## Downloadable Files
 
 The project includes the following 3D model formats:
 
--BLEND – Native Blender project file.
--STL – 3D printing and mesh-based applications.
--OBJ – 3D geometry exchange.
--FBX – 3D asset interchange.
--GLB – 3D model visualisation and web applications.
--MTL – Material information associated with the OBJ file.
-
+- BLEND – Native Blender project file.
+- STL – 3D printing and mesh-based applications.
+- OBJ – 3D geometry exchange.
+- FBX – 3D asset interchange.
+- GLB – 3D model visualisation and web applications.
+- MTL – Material information associated with the OBJ file.
 # Software and Tools
 
 - Blender – 3D modelling and visualisation.
