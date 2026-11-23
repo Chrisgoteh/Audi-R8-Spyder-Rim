@@ -18,7 +18,8 @@ The project demonstrates 3D modelling, geometric detailing and digital product v
 
 ![Front View](Audi%20R8%20Spyder%20Rim%20-%20Front%20View.jpg)
 ![Side View](Audi%20R8%20Spyder%20Rim%20-%20Side%20View%20.jpg)
-![Isometric View](Audi%20R8%20Spyder%20Rim%20-%20Isometric%20View.jpg)
+![Isometric View](Audi%20R8%20Spyder%20Rim%20-%20Isometric%20View%20.jpg)
+
 ## Downloadable Files
 
 The project includes the following 3D model formats:
@@ -29,6 +30,7 @@ The project includes the following 3D model formats:
 - FBX – 3D asset interchange.
 - GLB – 3D model visualisation and web applications.
 - MTL – Material information associated with the OBJ file.
+
 # Software and Tools
 
 - Blender – 3D modelling and visualisation.
