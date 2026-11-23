@@ -6,7 +6,7 @@
 
 # Renders
 
-front.jpg
+![Front](front.jpg)
 
 ![Side](Audi%20R8%20Spyder%20Rim%20-%20Side%20View.jpg)
 
