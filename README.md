@@ -17,13 +17,13 @@ The project demonstrates 3D modelling, geometric detailing and digital product v
 ## Project Renders
 
 ### Front View
-![Front View](renders/front.png)
+![Front View](renders/front.jpg)
 
 ### Side View
-![Side View](renders/side.png)
+![Side View](renders/side.jpg)
 
 ### Isometric View
-![Isometric View](renders/isometric.png)
+![Isometric View](renders/isometric.jpg)
 
 ## Downloadable Files
 
