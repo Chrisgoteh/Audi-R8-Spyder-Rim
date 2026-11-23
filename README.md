@@ -39,13 +39,11 @@ The project includes the following 3D model formats:
 - Mesh modelling and geometric detailing.
 - 3D asset export and file conversion.
 
-# Project Objectives
+## Approach
 
-- Develop a detailed automotive wheel model.
-- Practise 3D modelling techniques.
-- Explore geometric design and component detailing.
-- Produce 3D assets in multiple industry-standard formats.
-- Build a portfolio of automotive design projects.
+- **Modelling:** [i modelled one spoke segment and used alt + E to spin]
+- **Reference:** [i worked from: blueprints]
+- **Materials and rendering:** Dark steel-alloy material (Principled BSDF, base colour #727272, Metallic 1.0, Roughness [0.120]), rendered in [Cycles] with [Hdri].
 
 # Disclaimer
 
